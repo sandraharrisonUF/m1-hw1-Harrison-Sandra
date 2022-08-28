@@ -12,6 +12,6 @@ I have zero experience with coding.
 
 **Markup :  ## Career Goals**
 
- Markup : 1. Obtain new job in design/marketing
- Markup : 2. Develop skills in coding and Figma/XD/Sketch
- Markup : 3. Gain experience to be successful as a UX/UI designer
+    Markup : 1. Obtain new job in design/marketing
+             2. Develop skills in coding and Figma/XD/Sketch
+             3. Gain experience to be successful as a UX/UI designer
